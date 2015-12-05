@@ -1,0 +1,19 @@
+body, html{
+	width: 100%;
+	height: 100%;
+	background:  #C70032;
+	color: #ffffff;
+	margin: 0px;
+}
+
+.app{
+	width: 200px;
+	margin: auto;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.app h1{
+	font-family: Osaka;
+	font-size: 72px;
+}
